@@ -17,7 +17,7 @@ npm run start
 After that you can check the app via `Expo`.
 
 * PC
---TODO
+You can install the app called `Expo` in App Store.
 
 * Android
 You can install the app called `Expo` in Google playstore.
